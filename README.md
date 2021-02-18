@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://discord.c99.nl/widget/theme-4/718629267667419237
+![screenshot](https://discord.c99.nl/widget/theme-4/718629267667419237)
 
 Here are some ideas to get you started:
 
