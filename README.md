@@ -3,8 +3,7 @@ My name is Nad. I am a starter Developer. I love developing discord bots.
 
 ![Discord](https://discord.c99.nl/widget/theme-2/718629267667419237.png)
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/805765650697420821/814892160804978728/standard.gif"></div>
-
+<div align="center"><img src="https://cdn.discordapp.com/attachments/805765650697420821/814893683891109918/standard.gif"></div>
 My stats
 
 
